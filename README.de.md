@@ -72,11 +72,11 @@ Ein Beispiel für eine Moodle Entwicklung Umgebung folgen bald.
 
 | Komponente             | Typ       | Repository-Link                                               |
 |------------------------|-----------|---------------------------------------------------------------|
-| mokitul_block_plugin   | Block     | [GitHub](https://github.com/MoKITUL-FH-Erfurt/...)            |
-| mokitul_activity_plugin| Activity  | [GitHub](https://github.com/MoKITUL-FH-Erfurt/...)            |
-| mokitul_core_plugin    | Core/Lib  | [GitHub](https://github.com/MoKITUL-FH-Erfurt/...)            |
-| mokitul_api            | API       | [GitHub](https://github.com/MoKITUL-FH-Erfurt/...)            |
-| moodle_client          | Frontend  | [GitHub](https://github.com/MoKITUL-FH-Erfurt/...)            |
+| mokitul_block_plugin     | Block      | [GitHub](https://github.com/MoKITUL-FH-Erfurt/mokitul-block-plugin)           |
+| mokitul_activity_plugin  | Activity   | [GitHub](https://github.com/MoKITUL-FH-Erfurt/mokitul-activity-plugin)           |
+| mokitul_core_plugin      | Core/Lib   | [GitHub](https://github.com/MoKITUL-FH-Erfurt/mokitul-core-plugin)           |
+| mokitul_api              | API        | [GitHub](https://github.com/MoKITUL-FH-Erfurt/mokitul-api)           |
+| moodle_client            | Frontend   | [GitHub](https://github.com/MoKITUL-FH-Erfurt/mokitul-client)           |
 
 - mokitul_block_plugin_moodle: Ein klassisches Block-Plugin, das auf Moodle-Dashboards oder Kursseiten eingebunden werden kann. Es dient primär als Einstiegspunkt zur Interaktion mit den Funktionen der anderen Komponenten.
 

@@ -66,11 +66,11 @@ An example Moodle development environment will be provided soon.
 
 | Component                | Type       | Repository Link                                             |
 |--------------------------|------------|--------------------------------------------------------------|
-| mokitul_block_plugin     | Block      | [GitHub](https://github.com/MoKITUL-FH-Erfurt/...)           |
-| mokitul_activity_plugin  | Activity   | [GitHub](https://github.com/MoKITUL-FH-Erfurt/...)           |
-| mokitul_core_plugin      | Core/Lib   | [GitHub](https://github.com/MoKITUL-FH-Erfurt/...)           |
-| mokitul_api              | API        | [GitHub](https://github.com/MoKITUL-FH-Erfurt/...)           |
-| moodle_client            | Frontend   | [GitHub](https://github.com/MoKITUL-FH-Erfurt/...)           |
+| mokitul_block_plugin     | Block      | [GitHub](https://github.com/MoKITUL-FH-Erfurt/mokitul-block-plugin)           |
+| mokitul_activity_plugin  | Activity   | [GitHub](https://github.com/MoKITUL-FH-Erfurt/mokitul-activity-plugin)           |
+| mokitul_core_plugin      | Core/Lib   | [GitHub](https://github.com/MoKITUL-FH-Erfurt/mokitul-core-plugin)           |
+| mokitul_api              | API        | [GitHub](https://github.com/MoKITUL-FH-Erfurt/mokitul-api)           |
+| moodle_client            | Frontend   | [GitHub](https://github.com/MoKITUL-FH-Erfurt/mokitul-client)           |
 
 - **mokitul_block_plugin_moodle**: A classic block plugin that can be embedded on Moodle dashboards or course pages. Primarily serves as an entry point to interact with other components.
 - **mokitul_activity_plugin_moodle**: A custom activity that is embedded directly in courses. It provides an interface for students to complete tasks and collects data for analysis.
