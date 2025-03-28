@@ -15,7 +15,7 @@ Meta Repository für die MoKITUL RAG Anwendung und Plugins für Moodle
 
 ## 🧪 Forschungsprojekt – Moodle Plugin-Suite & Python API
 
-Dieses Repository bündelt eine Sammlung von Moodle-Plugins und eine begleitende Python-API, die im Rahmen eines Forschungsprojekts als Nebenprodukt entstanden sind. Die Software ist nicht production-ready, sondern als Experimentiergrundlage und Beitrag zur Community gedacht.
+Dieses Repository bündelt eine Sammlung von Moodle-Plugins und eine begleitende Python-API, die im Rahmen eines Forschungsprojekts als Nebenprodukt entstanden sind. Die Software ist (noch) nicht für den Produktiveinsatz geeignet, sondern als Experimentiergrundlage und Beitrag zur Community gedacht.
 
 Wir veröffentlichen den Quellcode Open Source, in der Hoffnung, dass er anderen hilft – sei es als Inspiration, Grundlage oder zum Weiterentwickeln.
 
@@ -30,7 +30,8 @@ Ursprünglich für den internen Gebrauch konzipiert, stellen wir den Code nun ö
 ## ⚠️ Hinweis
 
 Dieses Projekt ist ein Nebenprodukt unserer Forschung und nicht für produktive Moodle-Installationen vorgesehen.
-Der Code kann Bugs enthalten, die Sicherheitsprüfungen sind unvollständig. Benutzung auf eigene Gefahr.
+Der Code kann Bugs enthalten, die Sicherheitsprüfungen sind unvollständig. 
+Die Nutzung erfolgt auf eigenes Risiko.
 
 ## 🫶 Mitwirken erwünscht!
 
@@ -116,9 +117,9 @@ graph TD
     API --> DB
 ```
 
-### API-Dokumentation (folgt)
+### API-Dokumentation (in Arbeit 🚧)
 
-### Roadmap & bekannte Baustellen (folgt)
+### Roadmap & bekannte Baustellen (in Arbeit 🚧)
 
 ### 🛠️ Erste Schritte
 
