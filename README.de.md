@@ -84,7 +84,7 @@ Ein Beispiel für eine Moodle Entwicklung Umgebung folgen bald.
 
 - mokitul_core_plugin: Ein lokales Plugin, das Hilfsfunktionen, API-Zugänge und wiederverwendbare Logik zur Verfügung stellt. Es wird von Block- und Aktivitäts-Plugin gemeinsam genutzt.
 
-- mokitul_api: Eine eigenständige Python-basierte REST-API, die als Brücke zwischen Moodle und externer Datenverarbeitung dient (z. B. Visualisierung, Lernanalytik).
+- mokitul_api: Eine eigenständige Python-basierte REST-API, die als Brücke zwischen Moodle und externer Datenverarbeitung dient (z. B. Indexing, LLM).
 
 - moodle_client: Eine React Anwendung welche durch das Core-Plugin injiziert wird.
 

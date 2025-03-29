@@ -75,7 +75,7 @@ An example Moodle development environment will be provided soon.
 - **mokitul_block_plugin_moodle**: A classic block plugin that can be embedded on Moodle dashboards or course pages. Primarily serves as an entry point to interact with other components.
 - **mokitul_activity_plugin_moodle**: A custom activity that is embedded directly in courses. It provides an interface for students to complete tasks and collects data for analysis.
 - **mokitul_core_plugin**: A local plugin providing helper functions, API access, and reusable logic. Shared by the block and activity plugins.
-- **mokitul_api**: A standalone Python-based REST API serving as a bridge between Moodle and external data processing (e.g. visualisation, learning analytics).
+- **mokitul_api**: A standalone Python-based REST API serving as a bridge between Moodle and data processing (e.g. indexing, llm).
 - **moodle_client**: A React application injected via the core plugin.
 
 ```mermaid
