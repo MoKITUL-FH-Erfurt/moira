@@ -1,5 +1,5 @@
 # MoKITUL
-Meta repository for the MoKITUL RAG application and plugins for Moodle
+Meta repository for MoIRA (MoKITUL Integrated Retrieval Agent) for Moodle
 
 ## 📚 Table of Contents
 
@@ -27,6 +27,14 @@ This plugin suite was created as part of a research project at the University of
 
 Originally designed for internal use, we are now making the code publicly available to foster further development within the community and inspire others.
 
+## 🚧 Naming
+
+We originally launched the project as MoKITUL. 
+Problems arised as both the research project and this byproduct were hard to differentiate.
+To get around this we renamed the application to MoIRA. 
+Beware that some of the plugins might still be called Mokitul_Block_Plugin or similar. 
+This will be changed in the future.
+
 ## ⚠️ Disclaimer
 
 This project is a by-product of our research and is not intended for productive Moodle installations.
@@ -39,9 +47,9 @@ We welcome feedback, suggestions, or pull requests! If you are interested in con
 
 ## 📺 Demonstration
 
-![Block Plugin Demonstration](https://github.com/MoKITUL-FH-Erfurt/meta-mokitul/blob/main/assets/block_plugin_demo.gif)
+![Block Plugin Demonstration](https://github.com/MoKITUL-FH-Erfurt/moira/blob/main/assets/block_plugin_demo.gif)
 
-![Activity Plugin Demonstration](https://github.com/MoKITUL-FH-Erfurt/meta-mokitul/blob/main/assets/activity_plugin_demo.gif)
+![Activity Plugin Demonstration](https://github.com/MoKITUL-FH-Erfurt/moira/blob/main/assets/activity_plugin_demo.gif)
 
 ## 🧑‍💻 Development
 
