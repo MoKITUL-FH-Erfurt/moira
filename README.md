@@ -1,6 +1,10 @@
 # MoKITUL
 Meta repository for MoIRA (MoKITUL Integrated Retrieval Agent) for Moodle
 
+## TLDR
+
+In case you just want to know how to setup up MoIRA, refer to the [example setup](https://github.com/MoKITUL-FH-Erfurt/moira-example-setup).
+
 ## 📚 Table of Contents
 
 - [🧪 Research Project – Moodle Plugin Suite & Python API](#-research-project--moodle-plugin-suite--python-api)
@@ -8,6 +12,7 @@ Meta repository for MoIRA (MoKITUL Integrated Retrieval Agent) for Moodle
 - [⚠️ Disclaimer](#️-disclaimer)
 - [🫶 Contributions Welcome!](#-contributions-welcome)
 - [📺 Demonstration](#-demonstration)
+- [⚙️ How to setup](#-how-to-setup)
 - [🧑‍💻 Development](#-development)
 - [📜 Roadmap](#-roadmap)
 - [📄 License](#-license)
@@ -51,6 +56,11 @@ We welcome feedback, suggestions, or pull requests! If you are interested in con
 
 ![Activity Plugin Demonstration](https://github.com/MoKITUL-FH-Erfurt/moira/blob/main/assets/activity_plugin_demo.gif)
 
+## ⚙️ How to setup
+
+A detailed guide on how to setup can be founde here: [example setup](https://github.com/MoKITUL-FH-Erfurt/moira-example-setup). 
+This repository also contains a configuration suitable for develpoment and test purposes.
+
 ## 🧑‍💻 Development
 
 ### 🚧 Setting up a local development environment
@@ -69,6 +79,8 @@ Alternatively, Docker can be used to run the services and databases locally.
 Dev containers may be used for Python, Node.js and Task support.
 
 An example Moodle development environment will be provided soon.
+
+If you wish to use docker you can refer to the example setup provided in the [How to setup](#️-how-to-setup) section fo this readme.
 
 ### 📦 Components
 
